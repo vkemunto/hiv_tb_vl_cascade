@@ -10,7 +10,7 @@
 - Interactive KPIs and filterable cards
 
 ## 🗂 Project Structure
-- `/data` — Mock health dataset (CSV format)
+- `/data` — Mock health dataset (CSV format) [📄 HIV_TB_Mock_Dataset.xlsx](https://github.com/vkemunto/hiv_tb_vl_cascade/blob/main/HIV_TB_Mock_Dataset.xlsx)
 - `/dashboard` — Power BI (.pbix) file
 - `/assets` — Dashboard preview screenshots
 - `README.md` — Project description and usage guide
